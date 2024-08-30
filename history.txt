@@ -1,0 +1,20 @@
+ls
+cd pranav
+ls
+ls -l
+ls -a . .. ~
+history
+cd /homepranav
+cd /home
+cd /pranav
+ls
+cd pranav
+cd ..
+cd pranav/
+ls
+s
+sleep 2 & sleep 5
+clear
+vim
+1;rgb:1818/1818/1818clear
+clear
